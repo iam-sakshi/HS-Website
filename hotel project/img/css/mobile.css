@@ -18,7 +18,7 @@
 }
 
 #showcase .showcase-content {
-  padding-top: 70px;
+  padding-top: 80px;
   padding-bottom: 30px;
 }
 
@@ -49,7 +49,7 @@
 }
 
 #about-info .info-right {
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 .large-heading {
@@ -58,5 +58,5 @@
 
 /* Contact */
 #contact-info .box {
-  border-bottom: #444 dotted 1px;
+  border-bottom: #444 dotted 2px;
 }
